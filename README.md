@@ -1,5 +1,7 @@
 # CS-320-H7024-Software-Test-Automation-QA
 CS-320-H7024 Software Test Automation&amp; QA
+
+
 Q.How can I ensure that my code, program, or software is functional and secure?
 
 A. I can ensure that my code is functional and secure by using testing to validate the functionality and make sure that any cases in which the code can fail are caught before releasing it. Using best practices and being aware of the quality in which the code is created while sticking to the requirements can help me to identify issues and rectify them accordingly. 
